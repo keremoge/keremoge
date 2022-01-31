@@ -19,9 +19,8 @@ You can book a call with me on [Superpeer][superpeer]. The money will be used fo
 
 ----
 
-![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremoge&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremoge&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 
-[website]: https://saral.dev
 [ist_uni]: https://www.istanbul.edu.tr
 [albarakatech]: https://www.albarakatech.com
 [javascript]: https://www.javascript.org
