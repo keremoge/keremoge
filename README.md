@@ -19,6 +19,10 @@ You can book a call with me on [Superpeer][superpeer]. The money will be used fo
 
 ----
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=keremoge&theme=onedark&title=MultiLanguage,PullRequest,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
+----
+
 ![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremoge&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 
 [ist_uni]: https://www.istanbul.edu.tr
